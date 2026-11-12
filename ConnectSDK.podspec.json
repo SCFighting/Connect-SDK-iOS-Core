@@ -51,5 +51,9 @@
       "requires_arc": false,
       "compiler_flags": "-w"
     }
-  ]
+  ],
+  "source": {
+    "git": "https://github.com/SCFighting/Connect-SDK-iOS-Core.git",
+    "tag": "1.6.0"
+  }
 }
